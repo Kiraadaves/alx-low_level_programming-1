@@ -11,9 +11,3 @@ int main(void)
 	write(2, "and that piece of art is useful\" - Dora Korpar, 2015-10-19\n", 59);
 	return (1);
 }
-<<<<<<< HEAD
-=======
-Footer
-
-
->>>>>>> e28070f0b7981c013d9be61a441a31d88ba37050
